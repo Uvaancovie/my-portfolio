@@ -23,13 +23,13 @@ export default function Contact() {
                   <div className="space-y-4">
                     <div className="flex items-center">
                       <Mail className="h-5 w-5 mr-3 text-gray-500" />
-                      <Link href="mailto:hello@uvaancovie.com" className="hover:underline">
+                      <Link href="mailto:way2flyagency@gmail.com" className="hover:underline">
                         hello@uvaancovie.com
                       </Link>
                     </div>
                     <div className="flex items-center">
                       <Phone className="h-5 w-5 mr-3 text-gray-500" />
-                      <span>+27 XX XXX XXXX</span>
+                      <span>+27 81 0404 713</span>
                     </div>
                     <div className="flex items-center">
                       <Instagram className="h-5 w-5 mr-3 text-gray-500" />
