@@ -24,7 +24,7 @@ export default function Contact() {
                     <div className="flex items-center">
                       <Mail className="h-5 w-5 mr-3 text-gray-500" />
                       <Link href="mailto:way2flyagency@gmail.com" className="hover:underline">
-                        hello@uvaancovie.com
+                       way2flyagency@gmail.com
                       </Link>
                     </div>
                     <div className="flex items-center">
