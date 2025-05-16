@@ -4,64 +4,57 @@ import { ProjectCard } from "@/components/ui/project-card"
 const projects = [
   {
     title: "Lux Parking",
-    url: "https://lux-parking.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    url: "https://luxpark.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20142431.png",
   },
   {
     title: "Pearly White Dental",
     url: "https://pearlywhitedental.co.za",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20142550.png",
   },
   {
     title: "EB Medical Transport",
     url: "https://ebmedicaltransport.com",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20142649.png",
   },
-  {
-    title: "QuickTeq Media",
-    url: "https://quickteq-media.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
-  },
+  
   {
     title: "Cost Calculator",
     url: "https://cost-calculator-orpin.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20142800.png",
   },
   {
     title: "BFS Funeral Policy",
-    url: "https://bfs-funeral-policy.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    url: "https://ballitofuneraldirectors.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20142910.png",
   },
-  {
-    title: "BFS SEO",
-    url: "https://bfs-seo.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
-  },
-  {
-    title: "TG Govender",
-    url: "https://tg-govender.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
-  },
+ 
+  
   {
     title: "Umhlanga Funerals",
-    url: "https://umhlanga-funerals.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    url: "https://www.umhlangafunerals.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20143022.png",
   },
   {
-    title: "Student AI",
-    url: "https://studentai-beta.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    title: "Vehicle Roadworthy Centre ",
+    url: "https://www.vehicleroadworthy.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20143113.png",
   },
   {
-    title: "Dopamine Tracker",
-    url: "https://dopamine-tracker.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    title: "The Strategy Studio",
+    url: "https://the-strategy-studio.vercel.app/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20143220.png",
   },
   {
-    title: "Grantiose CRM",
-    url: "https://grantiose-crm.vercel.app",
-    imageSrc: "/placeholder.svg?height=400&width=600",
+    title: "Flare Frenzi",
+    url: "https://www.flarefrenzi.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20143650.png",
   },
+   {
+    title: "Hollow Point Security",
+    url: "https://www.hollowpointsecurity.co.za/",
+    imageSrc: "https://pnjqqkfklormkqcysssl.supabase.co/storage/v1/object/public/projects//Screenshot%202025-05-16%20143758.png",
+  }
 ]
 
 export default function Portfolio() {
